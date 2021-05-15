@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Section 1",
+      "updating": false,
+      "todos": [
+        {
+          "id": 1,
+          "priority": "high",
+          "dueDate": "24 Şub",
+          "title": "Task 1",
+          "description": "Task Detay",
+          "sub_todos": []
+        },
+        {
+          "id": 2,
+          "priority": "low",
+          "dueDate": "24 Şub",
+          "title": "Task 2",
+          "description": "Task Detay",
+          "sub_todos": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Section 2",
+      "updating": false,
+      "todos": []
+    },
+    {
+      "id": 3,
+      "title": "Section 3",
+      "updating": false,
+      "todos": [
+        {
+          "id": 3,
+          "priority": "medium",
+          "dueDate": "24 Şub",
+          "title": "Task 3",
+          "description": "Task Detay",
+          "sub_todos": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Section 4",
+      "updating": false,
+      "todos": []
+    }
+  ]
+}
